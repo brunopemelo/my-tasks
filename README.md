@@ -18,11 +18,11 @@ O projeto foi desenvolvido utilizando a seguinte tecnologia
 
 ---
 
-Tela principal:
+Tela principal:<br>
 ![Tela de login](./src/assets/Inicial.jpeg)<br><br>
-Tela adicionando tarefas:
+Tela adicionando tarefas:<br>
 ![Tela de registro](./src/assets/Adicionando-tarefas.jpeg)<br><br>
-Tela excluindo tarefa:
+Tela excluindo tarefa:<br>
 ![Tela de registro](./src/assets/Excluir-tarefa.jpeg)<br><br>
 
 ### 🔽 Possui
